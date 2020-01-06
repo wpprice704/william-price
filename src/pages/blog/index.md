@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: 'Travel Tips '
 menus:
   main:
-    title: Blog
+    title: Cuba
     weight: 2
 template: blog
 ---
+
